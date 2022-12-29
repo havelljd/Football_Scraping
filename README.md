@@ -18,7 +18,7 @@ After I was done scraping, I didn't want to continually scrape the site for the 
 
 <img width="1129" alt="image" src="https://user-images.githubusercontent.com/8563653/209899691-9963538b-039c-41ba-8087-667d57e8227b.png">
 
-Even though this data was meant to be used for a separate analytics project, I couldn't help myself and did some quick coaching wins visualizations. I organized the data into 3 columns; coach, wins (that coach had), and losses. This helped track coaches even if they switched schools; for example, Bronco Mendenhall coached at BYU and Virginia in the past 15 years. This visualization included wins and losses at both schools, and I sorted coaches by total wins across all schools.
+Even though this data was meant to be used for a separate analytics project, I couldn't help myself and did some quick coaching wins visualizations. I organized the data into 3 columns; coach, wins (that coach had), and losses. This helped track coaches even if they switched schools; for example, Bronco Mendenhall coached at BYU and Virginia in the past 15 years. This visualization included wins and losses at both schools, and I sorted coaches by total wins across all schools. I plotted this out with matplotlib.
 
 <img width="1157" alt="image" src="https://user-images.githubusercontent.com/8563653/209899891-bf0c9ef5-fee4-48d5-8abd-3154c36f8cb7.png">
 
