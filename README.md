@@ -1,6 +1,6 @@
 # Football_Scraping
 
-This project was meant to scrape general college football data for each major college football team, and then dump that data into a CSV. The data will be used in another project <a href="https://github.com/havelljd/Football_Scraping">here</a>. I scraped 15 years of data from 70 college football teams.
+This project was meant to scrape general college football data for each major college football team, and then dump that data into a CSV. The data will be used in another project <a href="https://github.com/havelljd/College_Football_Analytics">here</a>. I scraped 15 years of data from 70 college football teams.
 
 I'm a huge college football fan, and so I wanted to run some analysis on data from games. After checking out some Kaggle data and a few other datasets, there wasn't one that grabbed the stats for the teams that I wanted. So, I decided to scrape the data from www.sports-reference.com, as the format and info there looked great. Here's a screen grab of the table of data that I grabbed.
 
@@ -24,4 +24,4 @@ Even though this data was meant to be used for a separate analytics project, I c
 
 The visualization was only meant to easily see the most "successful" coaches in college football, regardless of schools. In the future, it would be interesting to see coaches lifetime earnings, along with wins and schools coached at (and success at each school).
 
-More analysis on this data is being done in <a href="https://github.com/havelljd/Football_Scraping">this repository</a>.
+More analysis on this data is being done in <a href="https://github.com/havelljd/College_Football_Analytics">this repository</a>.
